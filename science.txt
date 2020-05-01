@@ -1,0 +1,18 @@
+Empty calories may be grasshoppers' downfall. And they could spell trouble for plant eaters of all sizes. Over the past 5 years, several studies have documented 
+dwindling insect populations, prompting "insect apocalypse" headlines. Not everyone was convinced, because insect populations can have booms and busts. Now, 
+cologists analyzing long-term data about grasshoppers in Kansas have been able to factor out climate-induced fluctuations in these insects' numbers. They still 
+see a 30% decline in the grasshoppers over several decades and have also shown their food, local grasses, has less nutrients even though there's more of it. 
+Thus, the researchers have concluded the insect decline is real—and that "nutrient dilution" in plants could be a major problem.
+
+Abstract
+Aims
+Anthropogenic activities have drastically increased nutrient availability, resulting in declines in species richness in many plant communities. However, most previous 
+studies have explored only species-loss patterns and mechanisms over small sampling areas, so their results might overestimate species loss at larger spatial scales. 
+The aim of this research was to explore species diversity change patterns and species-loss rates at multiple scales in alpine meadow communities following nutrient 
+enrichment. Specifically, we asked two closely related questions: (i) do changes in species diversity and species-loss patterns differ among spatial scales? and (ii) 
+how does community compositional dissimilarity and species turnover change among spatial scale?
+
+Methods
+This study was implemented in an alpine meadow community, which is regarded as one of the most sensitive and vulnerable terrestrial ecosystems to anthropogenic 
+nutrient enrichment. We conducted a fertilization experiment that involved the addition of nitrogen (N), phosphorus (P) and a mixture of both to a series of quadrats 
+ranging from 1 to 16 m2 over 5 years to study the variations in the patterns of species diversity in response to nutrient additions at different spatial scales.
